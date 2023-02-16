@@ -1,4 +1,4 @@
-ejemplo-23
+
 
 Ejemplo de paginWEB Hola Mundo
 
@@ -11,4 +11,12 @@ Encabezdos
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
-###### Encabezado 6
+###### Encabezado 
+
+
+Tablas
+
+| Título  | Título   |
+| ------- | -------- |
+| Texto   | Texto    |
+| Texto   | Texto    |
